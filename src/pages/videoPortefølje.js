@@ -1,5 +1,4 @@
 import React from 'react';
-import BottomNavBar from '../Components/BottomNavBar';
 import ReactPlayer from 'react-player';
 
 export default function videoPortefølje() {
